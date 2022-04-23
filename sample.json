@@ -1,0 +1,12 @@
+{
+  "name": "小山",
+  "address": "東京",
+  "bankaccount": {
+    "name": "三菱UFJ銀行",
+    "branch_name": "横浜支店",
+    "account_type": "普通預金",
+    "account_holder": "小山",
+    "account_number": "111111111111"
+  },
+  "favorite_animes": ["鬼滅の刃", "どらえもん", "進撃の巨人", "クレヨンしんちゃん"]
+}
